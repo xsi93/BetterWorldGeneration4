@@ -1,0 +1,58 @@
+generator.BWG4=BWG4
+
+gui.selectcategory=Seleziona una Categoria:
+gui.comingsoon=Prossima Uscita!
+gui.selectGenerator=Seleziona il Generatore del Mondo:
+gui.generatorSettings=Impostazioni del Generatore:
+gui.copystring=Copy generator-settings to Clipboard
+
+bwg4.category.enhanced=Incantato
+bwg4.category.old=Vecchio
+bwg4.category.survival=Survival Extremo
+bwg4.category.fun=Divertente
+
+bwg4.setting.size=Dimensione
+bwg4.setting.small=Piccolo
+bwg4.setting.default=Default
+bwg4.setting.large=Grande
+bwg4.setting.snow=Mondo Innevato
+bwg4.setting.water=Acqua
+bwg4.setting.on=ON
+bwg4.setting.off=OFF
+bwg4.setting.theme=Tema
+bwg4.setting.type=Tipo
+bwg4.setting.layer=Livello
+
+bwg4.theme.default=Default
+bwg4.theme.snow=Innevato
+bwg4.theme.jungle=Giungla
+bwg4.theme.tropical=Tropicale
+bwg4.theme.paradise=Paradisiaco
+bwg4.theme.hell=Inferno
+bwg4.theme.woods=Foresta
+
+bwg4.type.island=Isola
+bwg4.type.floating=Fluttuante
+bwg4.type.inland=Isola
+
+bwg4.BETTERDEFAULT=Classico Migliorato 
+bwg4.EXTRFLAT=Estremamente Piatto
+bwg4.BETA173=Beta 1.7.3
+bwg4.ALPHA12=Alpha 1.2.0
+bwg4.ALPHA11=Alpha 1.1.0
+bwg4.INFDEV=Infdev
+bwg4.INDEV=Indev
+bwg4.WASTELAND=Desolazione (WIP)
+bwg4.ISLAND=Sopravvivenza nell'Isola
+bwg4.SKYISLAND=Soppravvivenza Fluttuante
+bwg4.CAVESURV=Sopravvivenza in Caverna
+bwg4.SKYBLOCK=Fluttuante
+bwg4.SKYLANDS=Terra Fluttuante
+bwg4.CAVE=Mondo Caverna (WIP)
+bwg4.CITY=Città Sterminata
+bwg4.DEADLYDESERT=Deserto Mortale
+bwg4.EXTREMEJUNGLE=Giungla Estrema
+bwg4.PLANET=Planetoide (WIP)
+
+credits.skyblock=Creatore delle mappe by Noobcrew
+credits.planet=Creatore della mod by Seibai
